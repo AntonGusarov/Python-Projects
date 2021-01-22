@@ -1,6 +1,6 @@
-# DAT171_Assignments
+# Python assignments
 
-This repo contains the deliverables for computer assignments on course DAT 171 at Chalmers.
+This repo contains solved project assignments on DAT171 at Chalmers.
 
 * Assignment 1
 * Assignment 2
